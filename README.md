@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NeoXMinecraft
+- 👀 I’m interested in HTML.
+- 🌱 I’m currently learning how QR-codes work.
